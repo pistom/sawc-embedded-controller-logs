@@ -1,5 +1,0 @@
-[2024-04-22 20:44] ERROR: Message: Error while requesting online api: Expired JWT Token, Context: {"endpoint":"/api/sawc/messages/process"}, 
-[2024-04-22 20:54] ERROR: Message: Error while requesting online api: JWT Token not found, Context: {"endpoint":"/api/sawc/messages/process"}, 
-[2024-04-22 21:05] ERROR: Message: Error while requesting online api: JWT Token not found, Context: {"endpoint":"/api/sawc/messages/process"}, 
-[2024-04-22 22:10] ERROR: Message: Error while requesting online api: Expired JWT Token, Context: {"endpoint":"/api/sawc/messages/process"}, 
-[2024-04-22 23:10] ERROR: Message: Error while requesting online api: Expired JWT Token, Context: {"endpoint":"/api/sawc/messages/process"}, 

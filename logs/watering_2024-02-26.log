@@ -1,4 +1,0 @@
-[2024-02-26 14:50] Type: online, Device: MODULE_01, Output: 1, Status: watering, Duration: 200 s, Send startWater at: Mon Feb 26 2024 14:50:48 GMT+0100 (Central European Standard Time), Context: {"onlineMessageAction":"START_WATER","onlineMessageId":1,"volume":200,"action":"startWater"}, 
-[2024-02-26 14:50] Type: online, Device: MODULE_01, Output: 1, Status: stopped, Context: {"onlineMessageAction":"STOP_WATER","onlineMessageId":2,"action":"stopWater"}, 
-[2024-02-26 18:00] Type: scheduled, Device: MODULE_01, Output: 9, Status: watering, Duration: 24 s, Send startWater at: 2024-02-26T17:00:02.554Z, Context: {"scheduleEventId":2}, 
-[2024-02-26 18:00] Type: scheduled, Device: MODULE_01, Output: 9, Status: done, Duration: 24 s, Send startWater at: 2024-02-26T17:00:02.554Z, Context: {"scheduleEventId":2}, 

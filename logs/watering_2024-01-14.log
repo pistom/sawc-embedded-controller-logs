@@ -1,8 +1,0 @@
-[2024-01-14 11:32] Type: online, Device: MODULE_01, Output: 9, Status: watering, Duration: 20 s, Send startWater at: Sun Jan 14 2024 11:32:51 GMT+0100 (Central European Standard Time), Context: {"onlineMessageAction":"START_WATER","onlineMessageId":334,"volume":20,"action":"startWater"}, 
-[2024-01-14 11:33] Type: online, Device: MODULE_01, Output: 9, Status: done, Duration: 20 s, Send startWater at: Sun Jan 14 2024 11:32:51 GMT+0100 (Central European Standard Time), Context: {"onlineMessageAction":"START_WATER","onlineMessageId":334,"volume":20,"action":"startWater"}, 
-[2024-01-14 11:59] Type: manual, Device: MODULE_01, Output: 9, Status: watering, Duration: 20 s, Send startWater at: Sun Jan 14 2024 11:59:54 GMT+0100 (Central European Standard Time), 
-[2024-01-14 11:59] Type: manual, Device: MODULE_01, Output: 9, Status: stopped, 
-[2024-01-14 12:00] Type: manual, Device: MODULE_01, Output: 6, Status: watering, Duration: 10 s, Send startWater at: Sun Jan 14 2024 12:00:03 GMT+0100 (Central European Standard Time), 
-[2024-01-14 12:00] Type: manual, Device: MODULE_01, Output: 6, Status: stopped, 
-[2024-01-14 14:28] Type: manual, Device: MODULE_01, Output: 6, Status: watering, Duration: 50 s, Send startWater at: Sun Jan 14 2024 14:28:29 GMT+0100 (Central European Standard Time), 
-[2024-01-14 14:29] Type: manual, Device: MODULE_01, Output: 6, Status: done, Duration: 50 s, Send startWater at: Sun Jan 14 2024 14:28:29 GMT+0100 (Central European Standard Time), 

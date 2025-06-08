@@ -1,6 +1,0 @@
-[2023-11-29 07:44] Type: scheduled, Device: MODULE_01, Output: 2, Status: watering, Duration: 5 s, Send startWater at: 2023-11-29T06:44:04.896Z, Context: {"scheduleEventId":3}, 
-[2023-11-29 07:44] Type: scheduled, Device: MODULE_01, Output: 2, Status: done, Duration: 5 s, Send startWater at: 2023-11-29T06:44:04.896Z, Context: {"scheduleEventId":3}, 
-[2023-11-29 15:45] Type: online, Device: MODULE_01, Output: 1, Status: watering, Duration: 9 s, Send startWater at: Wed Nov 29 2023 15:45:10 GMT+0100 (Central European Standard Time), Context: {"onlineMessageId":11,"volume":10,"action":"startWater"}, 
-[2023-11-29 15:45] Type: online, Device: MODULE_01, Output: 1, Status: done, Duration: 9 s, Send startWater at: Wed Nov 29 2023 15:45:10 GMT+0100 (Central European Standard Time), Context: {"onlineMessageId":11,"volume":10,"action":"startWater"}, 
-[2023-11-29 16:39] Type: online, Device: MODULE_01, Output: 5, Status: watering, Duration: 5 s, Send startWater at: Wed Nov 29 2023 16:39:05 GMT+0100 (Central European Standard Time), Context: {"onlineMessageId":12,"volume":5,"action":"startWater"}, 
-[2023-11-29 16:39] Type: online, Device: MODULE_01, Output: 5, Status: done, Duration: 5 s, Send startWater at: Wed Nov 29 2023 16:39:05 GMT+0100 (Central European Standard Time), Context: {"onlineMessageId":12,"volume":5,"action":"startWater"}, 

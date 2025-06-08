@@ -1,4 +1,0 @@
-[2023-12-17 14:52] Type: manual, Device: MODULE_01, Output: 1, Status: watering, Duration: 10 s, Send startWater at: Sun Dec 17 2023 14:52:11 GMT+0100 (Central European Standard Time), 
-[2023-12-17 14:52] Type: manual, Device: MODULE_01, Output: 1, Status: stopped, 
-[2023-12-17 15:01] Type: online, Device: MODULE_01, Output: 1, Status: watering, Duration: 10 s, Send startWater at: Sun Dec 17 2023 15:01:18 GMT+0100 (Central European Standard Time), Context: {"onlineMessageAction":"START_WATER","onlineMessageId":256,"volume":10,"action":"startWater"}, 
-[2023-12-17 15:01] Type: online, Device: MODULE_01, Output: 1, Status: stopped, Context: {"onlineMessageAction":"STOP_WATER","onlineMessageId":257,"action":"stopWater"}, 
