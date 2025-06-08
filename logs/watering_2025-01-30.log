@@ -1,0 +1,8 @@
+[2025-01-30 08:00] Type: scheduled, Device: MODULE_01, Output: 6, Status: watering, Duration: 160 s, Send startWater at: 2025-01-30T07:00:03.431Z, Context: {"scheduleEventId":7}, 
+[2025-01-30 08:02] Type: scheduled, Device: MODULE_01, Output: 6, Status: done, Duration: 160 s, Send startWater at: 2025-01-30T07:00:03.431Z, Context: {"scheduleEventId":7}, 
+[2025-01-30 09:00] Type: scheduled, Device: MODULE_01, Output: 4, Status: watering, Duration: 160 s, Send startWater at: 2025-01-30T08:00:00.492Z, Context: {"scheduleEventId":5}, 
+[2025-01-30 09:02] Type: scheduled, Device: MODULE_01, Output: 4, Status: done, Duration: 160 s, Send startWater at: 2025-01-30T08:00:00.492Z, Context: {"scheduleEventId":5}, 
+[2025-01-30 10:00] Type: scheduled, Device: MODULE_01, Output: 3, Status: watering, Duration: 16 s, Send startWater at: 2025-01-30T09:00:02.682Z, Context: {"scheduleEventId":4}, 
+[2025-01-30 10:00] Type: scheduled, Device: MODULE_01, Output: 3, Status: done, Duration: 16 s, Send startWater at: 2025-01-30T09:00:02.682Z, Context: {"scheduleEventId":4}, 
+[2025-01-30 18:30] Type: scheduled, Device: MODULE_00, Output: 3, Status: watering, Duration: 50 s, Send startWater at: 2025-01-30T17:30:01.378Z, Context: {"scheduleEventId":17}, 
+[2025-01-30 18:30] Type: scheduled, Device: MODULE_00, Output: 3, Status: done, Duration: 50 s, Send startWater at: 2025-01-30T17:30:01.378Z, Context: {"scheduleEventId":17}, 

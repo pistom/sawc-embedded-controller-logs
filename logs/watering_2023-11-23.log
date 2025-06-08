@@ -1,0 +1,4 @@
+[2023-11-23 07:43] Type: manual, Device: MODULE_01, Output: 3, Status: watering, Duration: 5 s, Send startWater at: Thu Nov 23 2023 07:43:08 GMT+0100 (Central European Standard Time), 
+[2023-11-23 07:43] Type: manual, Device: MODULE_01, Output: 3, Status: stopped, 
+[2023-11-23 07:44] Type: scheduled, Device: MODULE_01, Output: 2, Status: watering, Duration: 5 s, Send startWater at: 2023-11-23T06:44:32.688Z, Context: {"scheduleEventId":3}, 
+[2023-11-23 07:44] Type: scheduled, Device: MODULE_01, Output: 2, Status: done, Duration: 5 s, Send startWater at: 2023-11-23T06:44:32.688Z, Context: {"scheduleEventId":3}, 

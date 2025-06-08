@@ -1,0 +1,2 @@
+[2023-11-28 07:44] Type: scheduled, Device: MODULE_01, Output: 2, Status: watering, Duration: 5 s, Send startWater at: 2023-11-28T06:44:02.309Z, Context: {"scheduleEventId":3}, 
+[2023-11-28 07:44] Type: scheduled, Device: MODULE_01, Output: 2, Status: done, Duration: 5 s, Send startWater at: 2023-11-28T06:44:02.309Z, Context: {"scheduleEventId":3}, 
