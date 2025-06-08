@@ -13,7 +13,7 @@ sudo systemctl list-timers sawc-git-log-commit.timer
 
 ## Change timer
 ```
-sudo vim /etc/systemd/system/sawc-git-log-commit.service
+sudo vim /etc/systemd/system/sawc-git-log-commit.timer
 sudo systemctl daemon-reload
 ```
 
