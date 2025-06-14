@@ -2,7 +2,7 @@
 ```
 sudo systemctl start sawc-git-log-commit.service
 # Debug
-sudo journalctl -u git-log-commit.service -f
+sudo journalctl -u sawc-git-log-commit.service -f
 ```
 
 ## Check timer status
