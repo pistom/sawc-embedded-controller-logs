@@ -16,3 +16,5 @@
 [2025-06-14 10:00] Type: scheduled, Device: MODULE_01, Output: 3, Status: done, Duration: 16 s, Send startWater at: 2025-06-14T08:00:03.239Z, Context: {"scheduleEventId":4}, 
 [2025-06-14 11:00] Type: scheduled, Device: MODULE_01, Output: 5, Status: watering, Duration: 160 s, Send startWater at: 2025-06-14T09:00:01.530Z, Context: {"scheduleEventId":6}, 
 [2025-06-14 11:02] Type: scheduled, Device: MODULE_01, Output: 5, Status: done, Duration: 160 s, Send startWater at: 2025-06-14T09:00:01.530Z, Context: {"scheduleEventId":6}, 
+[2025-06-14 15:23] Type: manual, Device: MODULE_01, Output: 6, Status: watering, Duration: 120 s, Send startWater at: Sat Jun 14 2025 15:23:42 GMT+0200 (Central European Summer Time), 
+[2025-06-14 15:23] Type: manual, Device: MODULE_01, Output: 6, Status: stopped, 
