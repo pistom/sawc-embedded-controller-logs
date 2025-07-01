@@ -1,7 +1,0 @@
-[2025-06-03 10:00] Type: scheduled, Device: MODULE_00, Output: 7, Status: watering, Duration: 50 s, Send startWater at: 2025-06-03T08:00:04.971Z, Context: {"scheduleEventId":18}, 
-[2025-06-03 10:00] Type: scheduled, Device: MODULE_01, Output: 3, Status: error, Duration: 16 s, Send startWater at: 2025-06-03T08:00:04.971Z, Context: {"scheduleEventId":4,"message":"request to https://192.168.50.18/output failed, reason: connect EHOSTUNREACH 192.168.50.18:443","type":"system","errno":"EHOSTUNREACH","code":"EHOSTUNREACH"}, 
-[2025-06-03 10:00] Type: scheduled, Device: MODULE_00, Output: 7, Status: done, Duration: 50 s, Send startWater at: 2025-06-03T08:00:04.971Z, Context: {"scheduleEventId":18}, 
-[2025-06-03 18:30] Type: scheduled, Device: MODULE_00, Output: 3, Status: watering, Duration: 50 s, Send startWater at: 2025-06-03T16:30:03.504Z, Context: {"scheduleEventId":17}, 
-[2025-06-03 18:30] Type: scheduled, Device: MODULE_00, Output: 3, Status: done, Duration: 50 s, Send startWater at: 2025-06-03T16:30:03.504Z, Context: {"scheduleEventId":17}, 
-[2025-06-03 18:43] Type: manual, Device: MODULE_01, Output: 1, Status: watering, Duration: 160 s, Send startWater at: Tue Jun 03 2025 18:43:17 GMT+0200 (Central European Summer Time), 
-[2025-06-03 18:43] Type: manual, Device: MODULE_01, Output: 1, Status: stopped, 
