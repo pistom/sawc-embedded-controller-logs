@@ -30,3 +30,7 @@
 [2025-08-12 21:21] Type: scheduled, Device: MODULE_01, Output: 2, Status: done, Duration: 80 s, Send startWater at: 2025-08-12T19:20:01.307Z, Context: {"scheduleEventId":11}, 
 [2025-08-12 21:50] Type: scheduled, Device: MODULE_01, Output: 6, Status: watering, Duration: 120 s, Send startWater at: 2025-08-12T19:50:02.420Z, Context: {"scheduleEventId":7}, 
 [2025-08-12 21:52] Type: scheduled, Device: MODULE_01, Output: 6, Status: done, Duration: 120 s, Send startWater at: 2025-08-12T19:50:02.420Z, Context: {"scheduleEventId":7}, 
+[2025-08-12 22:04] Type: manual, Device: MODULE_01, Output: 4, Status: error, Duration: 40 s, Send startWater at: Tue Aug 12 2025 22:04:55 GMT+0200 (Central European Summer Time), Context: {"message":"request to https://192.168.50.104/output failed, reason: connect EHOSTUNREACH 192.168.50.104:443","type":"system","errno":"EHOSTUNREACH","code":"EHOSTUNREACH"}, 
+[2025-08-12 22:05] Type: manual, Device: MODULE_01, Output: 4, Status: error, Duration: 40 s, Send startWater at: Tue Aug 12 2025 22:05:01 GMT+0200 (Central European Summer Time), Context: {"message":"request to https://192.168.50.104/output failed, reason: connect EHOSTUNREACH 192.168.50.104:443","type":"system","errno":"EHOSTUNREACH","code":"EHOSTUNREACH"}, 
+[2025-08-12 22:05] Type: manual, Device: MODULE_01, Output: 4, Status: watering, Duration: 40 s, Send startWater at: Tue Aug 12 2025 22:05:40 GMT+0200 (Central European Summer Time), 
+[2025-08-12 22:05] Type: manual, Device: MODULE_01, Output: 4, Status: stopped, 
